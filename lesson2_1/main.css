@@ -1,0 +1,44 @@
+body{
+    background-color: darkgray;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;   /* або space-around*/
+}
+
+.card{
+    background-color: white;
+    width: 15%;
+    height: 340px;
+    margin: 30px 30px;
+    border: 1px solid black;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 130px;
+}
+
+.description{
+    color: gray;
+text-align: center
+}
+.download{
+    color: gray;
+    text-align: center;
+    margin-top: 7px;
+}
+
+.learn-more{
+    width: 80%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1.5px solid black;
+    margin: 45px auto;
+
+}
