@@ -1,0 +1,34 @@
+body{
+    background-color: #06bbd3;
+}
+
+.block-page{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10vh auto;
+
+}
+
+.block{
+    width: 42%;
+    height: 220px;
+    background-color: white;
+    display: flex;
+    margin: 15px ;
+    justify-items: center;
+    border-radius: 10px;
+}
+
+.fa-house{
+    font-size: 90px;
+    margin: 55px 30px;
+    width: 100px;
+    color: gray;
+}
+
+.title{
+    color: #fdaf69;
+}
