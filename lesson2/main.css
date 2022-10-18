@@ -1,0 +1,52 @@
+body{
+    background-color: darkgray;
+}
+.cards{
+    margin: 0 auto;
+    width: 1050px;
+
+}
+.top-widget{
+    background-color: #2268bb;
+    width: 900px;
+    height: 350px;
+    margin: 30px auto 30px auto ;
+    color: white;
+    font-family: "Arial Narrow";
+    font-size: 50px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.three-widget{
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+
+.box{
+    width:200px;
+    height: 250px;
+    background-color: #16447a;
+    color: white;
+    margin: auto;
+    align-items: center;
+}
+
+
+
+ .bottom-contact{
+     background-color: #2268bb;
+     width: 900px;
+     height: 350px;
+     margin: 30px auto 30px auto ;
+     color: white;
+     font-family: "Arial Narrow";
+     font-size: 50px;
+     justify-content: center;
+     display: flex;
+     align-items: center;
+ }
