@@ -1,0 +1,59 @@
+.title-text{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    width: 18%;
+}
+
+.cards{
+    margin-left: 45px;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card{
+    border: 2px solid darkgray;
+    width: 16%;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fa-star{
+    font-size: 65px;
+    color: darkgray;
+    margin-top: 35px;
+
+}
+
+.title{
+    color: #bf7d4a;
+    margin: 12px auto;
+}
+
+.descriprion-text{
+    font-size: 18px;
+    color: gray;
+    display: flex;
+    text-align: center;
+}
+
+.learn-block{
+    display: flex;
+    margin-top: 35px;
+
+}
+
+.learn-more{
+    background: #54c1b6;
+    height: 50px;
+    width: 180px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
