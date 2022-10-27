@@ -1,0 +1,34 @@
+body{
+    background-color: forestgreen;
+}
+
+.header{
+    width: 99%;
+    height: 300px;
+    background-color: cornflowerblue;
+    margin: 14px auto;
+    text-align: center;
+
+
+}
+
+.content-menu{
+    display: flex;
+    margin: 8px;
+    justify-content: space-between;
+}
+
+.content{
+    height: 600px;
+    width: 80%;
+    background-color: mediumpurple;
+    text-align: center;
+
+}
+
+.menu{
+    height: 600px;
+    width: 19%;
+    background-color: coral;
+    text-align: center;
+}

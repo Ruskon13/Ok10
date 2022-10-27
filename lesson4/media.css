@@ -1,0 +1,28 @@
+@media screen and (min-width: 0px) and (max-width: 900px){
+    .header{
+        height: 15vh;
+        width: 90%;
+        border-radius: 20px;
+        justify-content: center;
+    }
+
+    .content-menu{
+        display: block;
+
+    }
+
+    .content{
+        height: 70vh;
+        border-radius: 20px;
+        width: 90%;
+        margin: 14px auto;
+    }
+
+    .menu{
+        height: 15vh;
+        border-radius: 20px;
+        width: 90%;
+        margin: auto;
+    }
+
+}
